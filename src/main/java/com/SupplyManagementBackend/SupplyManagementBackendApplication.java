@@ -9,5 +9,4 @@ public class SupplyManagementBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SupplyManagementBackendApplication.class, args);
 	}
-
 }
